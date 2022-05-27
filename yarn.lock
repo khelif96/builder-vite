@@ -9123,7 +9123,7 @@ __metadata:
     npm-run-all: ^4.1.5
     rollup-plugin-postcss-lit: ^2.0.0
     sass: ^1.50.1
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
     wait-on: ^6.0.1
   languageName: unknown
   linkType: soft
@@ -9144,7 +9144,7 @@ __metadata:
     npm-run-all: ^4.1.5
     react: ^18.0.0
     react-dom: ^18.0.0
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
     wait-on: ^6.0.1
   languageName: unknown
   linkType: soft
@@ -9167,7 +9167,7 @@ __metadata:
     react-dom: ^16.4.14
     ts-node: ^10.7.0
     typescript: ^4.5.4
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
     wait-on: ^6.0.1
   languageName: unknown
   linkType: soft
@@ -9188,7 +9188,7 @@ __metadata:
     npm-run-all: ^4.1.5
     react: ^16.4.14
     react-dom: ^16.4.14
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
     wait-on: ^6.0.1
   languageName: unknown
   linkType: soft
@@ -9212,7 +9212,7 @@ __metadata:
     svelte: ^3.46.4
     svelte-preprocess: ^4.10.4
     typescript: ^4.5.5
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
     wait-on: ^6.0.1
   languageName: unknown
   linkType: soft
@@ -9230,7 +9230,7 @@ __metadata:
     http-server: ^14.1.0
     jest: ^27.5.1
     npm-run-all: ^4.1.5
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
     vue: ^3.2.25
     wait-on: ^6.0.1
   languageName: unknown
@@ -9247,7 +9247,7 @@ __metadata:
     "@storybook/react": ^6.5.0
     react: ^16.4.14
     react-dom: ^16.4.14
-    vite: 3.0.0-alpha.4
+    vite: 3.0.0-alpha.7
   languageName: unknown
   linkType: soft
 
@@ -14999,7 +14999,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.13":
+"postcss@npm:^8.4.14":
   version: 8.4.14
   resolution: "postcss@npm:8.4.14"
   dependencies:
@@ -18700,13 +18700,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:3.0.0-alpha.4":
-  version: 3.0.0-alpha.4
-  resolution: "vite@npm:3.0.0-alpha.4"
+"vite@npm:3.0.0-alpha.7":
+  version: 3.0.0-alpha.7
+  resolution: "vite@npm:3.0.0-alpha.7"
   dependencies:
     esbuild: ^0.14.38
     fsevents: ~2.3.2
-    postcss: ^8.4.13
+    postcss: ^8.4.14
     resolve: ^1.22.0
     rollup: ^2.72.1
   peerDependencies:
@@ -18725,7 +18725,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 96c5f090f68b51062b1eca1b177e4b4d0d9f334bce28a92303ae67324049eefe297c3baa197e45a10f3995494ff18757a4b8f6ce1a235de5495ce90f98d8c0e6
+  checksum: 7ec94fac0fc35f6616e65d80001524704ca1e27febac2a7ed8c3755af0c53b4d636c3bee02607231309f6ea972b72e8beabf494ca4488556acab037951f55609
   languageName: node
   linkType: hard
 

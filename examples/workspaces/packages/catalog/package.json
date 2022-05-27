@@ -20,6 +20,6 @@
     "@storybook/addon-essentials": "^6.5.0",
     "@storybook/builder-vite": "workspace:*",
     "@storybook/react": "^6.5.0",
-    "vite": "3.0.0-alpha.4"
+    "vite": "3.0.0-alpha.7"
   }
 }
